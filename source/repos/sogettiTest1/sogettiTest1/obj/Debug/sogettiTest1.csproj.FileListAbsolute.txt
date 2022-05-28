@@ -1,0 +1,14 @@
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\obj\Debug\sogettiTest1.csproj.AssemblyReference.cache
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\obj\Debug\sogettiTest1.csproj.CoreCompileInputs.cache
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\sogettiTest1.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\sogettiTest1.pdb
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\WebDriver.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\obj\Debug\sogettiTest1.dll
+C:\Users\sober\source\repos\sogettiTest1\sogettiTest1\obj\Debug\sogettiTest1.pdb
